@@ -843,6 +843,7 @@ header.hidden {
     color: var(--gray);
     transition: all 0.2s;
     cursor: default;
+    text-decoration: none;
 }
 
 .city-tag:hover {
@@ -1641,6 +1642,7 @@ body.loaded {
         padding: 0 16px;
     }
 }
+
 
 
 
